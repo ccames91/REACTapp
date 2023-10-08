@@ -1,0 +1,108 @@
+body{ 
+    margin: 0;
+    padding: 0;
+    background-image: url('../images/howitzer.webp');
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.container{
+    display: flex;
+    width: 40%;
+    height: 100%;
+    padding: 20px 20px;
+    
+}
+  
+.box{
+    flex: 30%;
+    display: table;
+    align-items: center;
+    text-align: center;
+    font-size: 10px;
+    background-color: chartreuse;
+    color: rgb(253, 6, 6);
+    padding: 30px 30px;
+    border-radius: 20px;
+    margin: 2px;
+    
+}
+
+.box img{
+    border-radius: 25%;
+    border: 2px solid white;
+    height: 25%;
+    width: 20%;
+}
+
+.box ul{
+    margin-top: 30px;
+    font-size: 15px;
+    text-align: center;
+
+}
+
+.box ul li{
+ list-style: none;
+ margin-top: 50p}
+
+
+ #about-me {
+    color: yellow;
+    border: 2px;
+    border-color: purple;
+    background-color: blue;
+    font-size: 15px;
+    
+
+ }
+
+ #my-applications {
+    color: green;
+    background-color: orchid;
+   flex: 0 0 60%;
+    font-size: 30px;
+    padding: 25px;
+    width: 45%;
+    height: 40%;
+ }
+
+ .main {
+   display: flex;
+
+ }
+
+ #contact-me {
+   
+    width: 35%;
+    height: 25%;
+    margin: 2px;
+ }
+
+ .footer {
+ width:400px;
+ margin:auto;
+ }
+
+ .footerwrap {
+    width:100%;
+    
+    bottom: 0px;
+    
+ }
+
+ .footerContent {
+    float: left;
+    width: 100%;
+    background-color: crimson;
+    padding: 20px 0;
+ }
+ 
+ #my-applications {
+    color: green;
+    background-color: orchid;
+    float: left;
+    font-size: 30px;
+ }
+ 

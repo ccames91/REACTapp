@@ -1,5 +1,6 @@
 import React from 'react';
-import profilePic from './assets/images/profilepic.jpg'; // Import your image
+import profilePic from './assets/images/profilepic.jpg'; 
+import './style.css';
 
 function ChandlerBio() {
   return (
