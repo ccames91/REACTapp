@@ -2,7 +2,7 @@ import React from 'react';
 import profilePic from './assets/images/profilepic.jpg'; 
 import './style.css';
 
-function ChandlerBio() {
+function Project2() { // Updated function name
   return (
     <div>
       <header className="container">
@@ -58,4 +58,4 @@ function ChandlerBio() {
   );
 }
 
-export default ChandlerBio;
+export default Project2; // Updated export name

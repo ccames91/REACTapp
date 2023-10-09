@@ -1,13 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import ChandlerBio from './ChandlerBio'; // Import the ChandlerBio component
+import Project2 from './Project-2'; // Import the Project2 component
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <ChandlerBio /> {/* Render the ChandlerBio component */}
+    <Project-2 /> {/* Render the Project2 component */}
   </React.StrictMode>
 );
 
