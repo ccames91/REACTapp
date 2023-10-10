@@ -2,7 +2,7 @@ import React from 'react';
 import profilePic from './assets/images/profilepic.jpg'; 
 import './style.css';
 
-function Project2() { // Updated function name
+function Project2() { 
   return (
     <div>
       <header className="container">
@@ -58,4 +58,4 @@ function Project2() { // Updated function name
   );
 }
 
-export default Project2; // Updated export name
+export default Project2; 

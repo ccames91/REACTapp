@@ -1,7 +1,7 @@
 body{ 
     margin: 0;
     padding: 0;
-    background-image: url('../images/howitzer.webp');
+    background-image: url('./assets/images/howitzer.webp');
     align-items: center;
     justify-content: center;
     
